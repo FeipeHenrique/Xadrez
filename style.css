@@ -13,3 +13,7 @@
 .casa_preta {
     background-color: #769656;
 }
+
+.casa_branca:hover, .casa_preta:hover {
+    filter: brightness(1.2);
+}
